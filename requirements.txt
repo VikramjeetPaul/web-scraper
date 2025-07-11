@@ -1,0 +1,4 @@
+Install the following using CMD:
+
+pip install selenium
+pip install pandas
